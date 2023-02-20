@@ -1,10 +1,9 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import "../Header/Header.css"
-const mygord = require('../Header/img/Frame 3.png')
+const mygord = require('../Header/img/Frame3.png')
 const mip1 = require("./img/map-pin.png")
 const mip = require("./img/map-pin.png")
-
 
 
 function Header() {
@@ -15,7 +14,7 @@ function Header() {
         <Row>
           <Col xs={3} className="dost">
             <h2 className='zabiri'>Забронируйте уникальное жилье быстро и просто</h2>
-            <p>Лучший способ арендовать квартиру </p>
+            <p className='zabiri1'>Лучший способ арендовать квартиру </p>
           </Col>
         </Row>
         <Row>

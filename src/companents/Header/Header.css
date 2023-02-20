@@ -5,11 +5,21 @@ font-weight: 700;
 font-size: 28px;
 display: flex;
 align-items: center;
-color: #1C8EC0;
-margin-top: 73px;
+color: #0176a0;
+margin-top: 153px;
+}
+.zabiri1{
+    width: 489px;
+   font-family: 'Gotham Pro';
+font-weight: 700;
+font-size: 20px;
+display: flex;
+align-items: center;
+color: #0176a0;
 }
 .mygorod{
     width: 100%;
+    background: #6ec9e3;
 }
 .dost{
     position: absolute;
