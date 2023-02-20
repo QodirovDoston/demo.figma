@@ -16,9 +16,9 @@ margin-top: 73px;
     margin-top: -499px;
 }
 .fer{
-    margin-top: -60px;
+    margin: -60px 0px 0px 40px;
     position: absolute;
-    width: 1500px;
+    width: 1200px;
     height: 60px;
     background: #FFFFFF;
     border: 3px solid #0098DB;
@@ -34,7 +34,7 @@ border: 2px solid #FF6847;
 }
 .mire1{
     position: absolute;
-    margin-left: 10px;
+    margin-left: 40px;
 margin-top: -40px;
 border:  #FF6847;
 }
@@ -42,19 +42,19 @@ border:  #FF6847;
 .mire2{
     display: flex;
     position: absolute;
-    margin-left: 220px;
+    margin-left: 120px;
 margin-top: -40px;
 border:  #FF6847;
 }
 .mire3{
     position: absolute;
-    margin-left: 420px;
+    margin-left: 230px;
 margin-top: -40px;
 border:  #FF6847;
 }
 .btttn{
     position: absolute;
-    margin-left: 558px;
+    margin-left: 295px;
 margin-top: -57px;
 border:  #FF6847;
 color: #FFFFFF;

@@ -1,4 +1,4 @@
-.zagruska{
+.zagruska {
     margin-top: 50px !important;
     font-weight: 700;
     font-size: 16px;
@@ -35,4 +35,34 @@
     line-height: 25px;
     color: #242424;
     margin-bottom: 40px;
+}
+
+.cer {
+    display: flex;
+    width: 431px;
+    height: 90px;
+    left: 864px;
+    top: 2225px;
+    background: #FFFFFF;
+    border: 1px solid #C1E1EF;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.sum {
+    font-family: 'Gotham Pro';
+    font-weight: 700;
+    font-size: 21px;
+    color: #242424;
+}
+.nar{
+    font-family: 'Gotham Pro';
+    font-weight: 500;
+    font-size: 18px;
+}
+.sozlr{
+    margin: 18px 0px 0px 30px;
+}
+.img{
+    margin:10px 0px 0px 30px;
 }

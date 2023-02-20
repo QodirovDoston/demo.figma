@@ -1,0 +1,88 @@
+.unpt{
+    margin:25px 0px 20px 85px;
+    width: 270px;
+    height: 50px;
+background: #FFFFFF;
+border: 1px solid #D9E7ED;
+box-shadow: 0px 0px 10px #DCF4FF;
+border-radius: 3px;
+}
+.section{
+background: #EEF9FC;
+}
+.serch{
+    margin: 60px 10px 60px 250px ;
+    width: 600px;
+    Background: rgba(255, 255, 255, 0.46);
+border: 1px solid #FFFFFF;
+border-radius: 3px;
+}
+.navos{
+    font-family: 'Gotham Pro';
+font-weight: 700;
+font-size: 28px;
+line-height: 191.62%;
+align-items: flex-end;
+text-align: center;
+color: #1C8EC0;
+}
+.nimadur{
+    font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+text-align: center;
+color: #242424;
+}
+.byutn{
+width: 170px;
+height: 50px;
+border: none;
+color: #fff;
+background: #FC6341;
+}
+.najmit{
+font-family: 'Gotham Pro';
+font-weight: 400;
+font-size: 17px;
+color: #000000;
+width: 500px;
+text-align: center;
+margin-left: 60px;
+}
+.najmit span{
+color: #0098DB;
+}
+.foter{
+    background: #0C5987;
+}
+.Onas{
+    font-family: 'Gotham Pro';
+    list-style: none;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+text-decoration-line: underline ;
+color: #FFFFFF;
+line-height:25px;
+}
+.Onasi{
+    margin: 56px 0px 32px 0px;
+    list-style: none;
+font-family: 'Gotham Pro';
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+color: #FFFFFF;
+}
+.nihoya{
+    display: flex;
+    justify-content: space-between;
+}
+.boldi{
+    margin: 30px 20px 10px 0px ;
+    width: 800px;
+    color: #FFFFFF;
+}
+.tushpasga{
+    margin-bottom: 20px;
+}
