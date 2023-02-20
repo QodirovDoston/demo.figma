@@ -1,0 +1,94 @@
+.felter {
+    text-align: center;
+    font-family: 'Gotham Pro';
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 168.22%;
+    color: #242424;
+}
+
+.byu {
+    font-family: 'Gotham Pro';
+    color: #FFFFFF;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 4%;
+    background: #0098DB;
+    border-radius: 7px;
+    border: none;
+}
+
+.bre {
+    font-size: 14px;
+    border: none;
+    align-items: center;
+    text-align: center;
+    color: #0098DB;
+    background-color: #FFFFFF;
+    text-decoration-line: underline;
+}
+
+.bothbuton {
+    margin-left: 20px;
+}
+
+.newcard {
+    display: flex;
+    justify-content: space-evenly;
+    Width: 307px;
+    Height: 52px;
+    bottom: 11.16%;
+    background: #EFF9FE;
+}
+
+.newcard0 {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 20px;
+    text-align: center;
+    color: #199AD2;
+    margin-top: 10px;
+}
+
+.newcard1 {
+    font-family: 'Gotham Pro';
+    font-size: 18px;
+    margin-top: 10px;
+    line-height: 168.22%;
+    text-decoration-line: line-through;
+    color: #242424;
+    font-weight: 700;
+}
+
+.card {
+    border: 1px solid #D6ECF7;
+    Width: 309px;
+    Height: 345px;
+    margin-top: 40px;
+
+}
+
+.solo {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 144.9%;
+    color: #242424;
+    margin: 15px 0px 15px 15px;
+}
+
+.soso {
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 144.9%;
+    display: flex;
+    align-items: center;
+    color: #484848;
+    margin: 0px 0px 15px 15px;
+
+}

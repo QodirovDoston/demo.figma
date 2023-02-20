@@ -1,0 +1,66 @@
+.zabiri{
+    width: 489px;
+   font-family: 'Gotham Pro';
+font-weight: 700;
+font-size: 28px;
+display: flex;
+align-items: center;
+color: #1C8EC0;
+margin-top: 73px;
+}
+.mygorod{
+    width: 100%;
+}
+.dost{
+    position: absolute;
+    margin-top: -499px;
+}
+.fer{
+    margin-top: -60px;
+    position: absolute;
+    width: 1500px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 3px solid #0098DB;
+    box-shadow: 0px 0px 10px rgba(83, 201, 254, 0.44);
+    border-radius: 3px;
+    position: absolute;
+/* transform: rotate(90deg); */
+}
+.fa-sharp{
+    position: absolute;
+    bottom:59px;
+border: 2px solid #FF6847;
+}
+.mire1{
+    position: absolute;
+    margin-left: 10px;
+margin-top: -40px;
+border:  #FF6847;
+}
+
+.mire2{
+    display: flex;
+    position: absolute;
+    margin-left: 220px;
+margin-top: -40px;
+border:  #FF6847;
+}
+.mire3{
+    position: absolute;
+    margin-left: 420px;
+margin-top: -40px;
+border:  #FF6847;
+}
+.btttn{
+    position: absolute;
+    margin-left: 558px;
+margin-top: -57px;
+border:  #FF6847;
+color: #FFFFFF;
+box-sizing: border-box;
+width: 267px;
+height: 54px;
+background: #FC6341;
+border-radius: 3px;
+}
