@@ -1,3 +1,4 @@
+import "../src/index.css"
 import Navbar from "./companents/Navbar/Navbar";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./companents/Header/Header";
