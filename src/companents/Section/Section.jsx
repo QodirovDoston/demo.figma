@@ -9,7 +9,7 @@ function Section() {
     const [value, SetValue] = useState("")
 
     const FetchingData = async () => {
-        const res = await axios.get("https://jsonplaceholder.typicode.com/users")
+        const res = await axios.get("http://localhost:3000/data")
         return res
     }
     useEffect(() => {
@@ -33,13 +33,13 @@ function Section() {
                     return (
                     <Col xs={3}>
                     <div className="card" key={val.id}>
-                        <img src={homeCard} alt="" />
+                        <img src={val.img} alt="" />
                         <h2 className='solo'>{val.name}</h2>
-                        <p  className='soso'><i class="fa-thin fa-location-dot"></i>{val.email}</p>
+                        <p  className='soso'><i class="fa-thin fa-location-dot"></i>{val.location}</p>
                        
                         <div className='bothbuton'>
-                            <button className='byu'>9,5</button>
-                            <button className='bre'>82 отзыва</button>
+                            <button className='byu'>{val.price}</button>
+                            <button className='bre'>{val.sale}</button>
                         </div>
                     </div>
                     <div className="newcard">
