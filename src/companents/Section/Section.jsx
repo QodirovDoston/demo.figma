@@ -8,8 +8,9 @@ function Section() {
     const [value, SetValue] = useState("")
 
     const FetchingData = async () => {
-        const res = await axios.get("http://localhost:3002/data")
-        return res
+        const res = await axios.get("https://my-json-server-production-10a0.up.railway.app/data")
+       console.log(res);
+        return res 
     }
     useEffect(() => {
         FetchingData().then(res => setToday(res.data))
