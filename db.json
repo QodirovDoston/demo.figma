@@ -1,12 +1,20 @@
 {
-    "data": [
-        {
-            "name": "Solo Sokos Hotel Palace Bridge",
-            "location": "Санкт-Петербург, Россия",
-            "price": "8 990 ₽  / за ночь",
-            "sale": "12 990",
-            "img": "https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
-            "id": 1
-        }
-    ]
+  "data": [
+    {
+      "name": "Solo Sokos Hotel Palace Bridge",
+      "location": "Санкт-Петербург, Россия",
+      "price": "8 990 ₽  / за ночь",
+      "sale": "12 990",
+      "img": "https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
+      "id": 1
+    },
+    {
+      "name": "sarkaboy ",
+      "location": "alimov",
+      "price": "2990$",
+      "sale": "20 sum",
+      "img": "fotbor",
+      "id": 2
+    }
+  ]
 }

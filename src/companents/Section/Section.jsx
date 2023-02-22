@@ -8,12 +8,12 @@ function Section() {
     const [value, SetValue] = useState("")
 
     const FetchingData = async () => {
-        const res = await axios.get("https://my-json-server-production-10a0.up.railway.app/data")
+        const res = await axios.get(" http://localhost:3001/data")
        console.log(res);
         return res 
     }
     useEffect(() => {
-        FetchingData().then(res => setToday(res.data))
+        FetchingData().then((res)=>{setToday(res.data)})
     }, [])
     return (
         <div>
@@ -54,5 +54,4 @@ function Section() {
         </div>
     )
 }
-
 export default Section
