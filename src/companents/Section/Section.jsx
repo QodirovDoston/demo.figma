@@ -8,7 +8,7 @@ function Section() {
     const [value, SetValue] = useState("")
 
     const FetchingData = async () => {
-        const res = await axios.get(" http://localhost:3001/data")
+        const res = await axios.get(" http://localhost:3004/data")
        console.log(res);
         return res 
     }
